@@ -3,7 +3,7 @@
 ## Best Ethereum Smart Contract/Decentralized Application at HackNC
 ## The Wolfram Award at HackNC
 
-![](https://github.com/BubbaJoe/BigFatCharity/raw/master/package.json)
+[Check out this Video!](https://raw.githubusercontent.com/bubbajoe/cryptohackers/master/cryptohackers-dapp.mp4)
 
 ## How to run the Website Locally
 
