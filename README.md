@@ -1,7 +1,7 @@
-# [CryptoHackers](https://devpost.com/software/cryptohackers) - [Hack Duke 2018](https://hacknc2018.devpost.com/)
+# [CryptoHackers](https://devpost.com/software/cryptohackers) - [HackNC 2018](https://hacknc2018.devpost.com/)
 
-## Best Ethereum Smart Contract/Decentralized Application at HackNC
-## The Wolfram Award at HackNC
+## :trophy: Best Ethereum Smart Contract/Decentralized Application at HackNC
+## :trophy: The Wolfram Award at HackNC
 
 [Check out this Video!](https://raw.githubusercontent.com/bubbajoe/cryptohackers/master/cryptohackers-dapp.mp4)
 
